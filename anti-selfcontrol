@@ -1,0 +1,4 @@
+# You need to run this as sudo/root
+cp /etc/hosts /etc/hosts.fail
+cp /etc/hosts.bak /etc/hosts
+echo "All done!"
