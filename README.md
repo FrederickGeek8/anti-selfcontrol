@@ -3,6 +3,15 @@ anti-selfcontrol
 
 Need to remove that block that Selfcontrol put on? Look no further! This quick tool removes that pesky block that Selfcontrol put on!
 
+INSTALL
+===============
+Installation is simple. After cloning this repo, open up Terminal and do
+<pre>cd /directory-cloned-to</pre>
+then
+<pre>chmod a+x anti-selfcontrol</pre>
+To execute the program (while in the same directory), do
+<pre>./anti-selfcontrol</pre>
+
 TODO
 ================
 GUI Application
