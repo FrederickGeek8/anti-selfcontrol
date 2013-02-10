@@ -12,6 +12,8 @@ then
 To execute the program (while in the same directory), do
 <pre>./anti-selfcontrol</pre>
 
+You can then relaunch SelfControl and just let the timer run down.
+
 TODO
 ================
 GUI Application
